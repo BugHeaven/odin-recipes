@@ -1,1 +1,1 @@
-# odin-recipes
+An Odin-based coding exercise creating a basic HTML recipe list webpage.
